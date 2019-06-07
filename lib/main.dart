@@ -37,12 +37,12 @@ class Menu extends StatelessWidget {
         new  ListTile(
           title: new Text('Giới thiệu Đại Học Cần Thơ'),
           trailing: new Icon(Icons.trending_flat),
-          url: 'https://www.ctu.edu.vn/',
+          //url: 'https://www.ctu.edu.vn/', //???
         ),
         new ListTile(
           title: new Text('Thông tin tuyển sinh'),
           trailing: new Icon(Icons.trending_flat),
-          url:'https://tuyensinh.ctu.edu.vn/dai-hoc-chinh-quy/thong-tin-tuyen-sinh.html',
+          //url:'https://tuyensinh.ctu.edu.vn/dai-hoc-chinh-quy/thong-tin-tuyen-sinh.html',
         ),
         new ListTile(
           title: new Text('Danh sách ngành'),
@@ -52,7 +52,7 @@ class Menu extends StatelessWidget {
         new ListTile(
           title: new Text('Xét tuyển thẳng'),
           trailing: new Icon(Icons.trending_flat),
-          url:'https://tuyensinh.ctu.edu.vn/chuong-trinh-dai-tra/793-xet-tuyen-thang.html',
+          //url:'https://tuyensinh.ctu.edu.vn/chuong-trinh-dai-tra/793-xet-tuyen-thang.html',
         ),
         new ListTile(
           title: new Text('Thông tin liên hệ'),
