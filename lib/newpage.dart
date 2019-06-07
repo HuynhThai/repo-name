@@ -1,10 +1,10 @@
-import 'package:flutter/foundation.dart';
+
 import 'package:flutter/material.dart';
 class NewPage extends StatelessWidget {
-  final String Danhsachnganh;
+  final String title;
 
   
-  NewPage(this.Danhsachnganh);
+  NewPage(this.title);
   @override
   Widget build(BuildContext context) {
     return  new Scaffold(
