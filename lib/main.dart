@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/foundation.dart';
-import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
 import 'package:hello_world/newpage.dart';
 
 void main() => runApp(MyApp());
