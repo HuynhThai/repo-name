@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
 
 // Sua code thi update ben menu ben trai, duoi CHANGES la nhung file co thay doi, nhap message tren o message roi bam Ctrl + Enter de luu thay doi vo Git
-      
+// Goc duoi ben trai ke chu master* bam vo mui ten xoay xoay de update code len Git      
 class Menu extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
