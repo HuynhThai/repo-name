@@ -35,7 +35,7 @@ class Menu extends StatelessWidget {
             new ListTile(
               title: new Text('Giới thiệu Đại Học Cần Thơ'),
               trailing: new Icon(Icons.trending_flat),
-              //url: 'https://www.ctu.edu.vn/', //???
+              //url: 'https://www.ctu.edu.vn/', 
             ),
             new ListTile(
               title: new Text('Thông tin tuyển sinh'),
