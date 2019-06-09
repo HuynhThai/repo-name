@@ -8,7 +8,7 @@ class NewPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  new Scaffold(
-      new AppBar(
+      appBar: new AppBar(
         title: new Text('Danh sách ngành'),
       ),
       body: new ListView(
