@@ -18,10 +18,10 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: new AppBar(
-        title: Text("New app"),
+        title: Text(""),
       ),
       body: Container(
-        child: Text("data"),
+        child: Text(""),
       ),
       drawer: new Drawer(child: Menu()),
     );
